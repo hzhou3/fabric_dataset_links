@@ -10,3 +10,5 @@ http://www.nada.kth.se/cvap/databases/kth-tips/download.html
 https://www.aitex.es/afid/
 
 http://www.cb.uu.se/~gustaf/texture/
+
+https://resources.mpi-inf.mpg.de/conference/dagm/2007/prizes.html
